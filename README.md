@@ -1,21 +1,21 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/Abhijith14/BUDDY-WEB-v2/master/readme_assets/logo.png" width="400" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/BUDDY-Developer/BUDDY-WEB-v2/master/readme_assets/logo.png" width="400" />
 </div>
 <h1 align="center">
   Abhijith14/BUDDY-WEB-v2
 </h1>
 <p align="center">
-  The Second iteration of <a href="https://abhijith14.github.io/BUDDY-WEB-v2/" target="_blank">BUDDY-WEBSITE</a>
+  The Second iteration of <a href="https://BUDDY-Developer.github.io/BUDDY-WEB-v2/" target="_blank">BUDDY-WEBSITE</a>
 </p>
 
 <p align="center">
   Previous iterations:
-  <a href="https://github.com/Abhijith14/BUDDY-WEB-v1" target="_blank">v1</a>
+  <a href="https://github.com/BUDDY-Developer/BUDDY-WEB-v1" target="_blank">v1</a>
 </p>
 
 <p align="center">
   New iterations:
-  <a href="https://github.com/Abhijith14/BUDDY-WEB-v3" target="_blank">v3</a>
+  <a href="https://github.com/BUDDY-Developer/BUDDY-WEB-v3" target="_blank">v3</a>
 </p>
 
 <!--
@@ -26,15 +26,15 @@
 </p>
 -->
 
-![demo](https://raw.githubusercontent.com/Abhijith14/BUDDY-WEB-v2/master/readme_assets/home.png)
+![demo](https://raw.githubusercontent.com/BUDDY-Developer/BUDDY-WEB-v2/master/readme_assets/home.png)
 
 ## 🚨 Forking this repo (please read!)
 
 _**yes, with attribution**_.
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+We value keeping our site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever we find that someone has copied our site without giving us credit. We spent a non-trivial amount of effort building and designing this iteration of our website, and We are proud of it! All we ask of you all is to not claim this effort as your own.
 
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/BUDDY-WEB-v2](https://github.com/Abhijith14/BUDDY-WEB-v2/). Thanks!
+Yes, you can fork this repo. Please give us proper credit by linking back to [BUDDY-Developer/BUDDY-WEB-v2](https://github.com/BUDDY-Developer/BUDDY-WEB-v2/). Thanks!
